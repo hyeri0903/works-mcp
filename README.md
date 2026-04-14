@@ -1,3 +1,5 @@
+Requesting removal from LobeHub listing. -hyeri0903
+
 ### ⚒️Setting
 ~~~
 $ mkdir works-mcp
